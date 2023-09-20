@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1694624676 source:c:\temp\allen c++ workspace sept 2023\helloworld\christmas1.cpp
+	<iostream>
+
+1694626517 source:c:\temp\allen c++ workspace sept 2023\helloworld\lcm.cpp
+	<iostream>
+
+1694625565 source:c:\temp\allen c++ workspace sept 2023\helloworld\looping.cpp
+	<iostream>
+
+1694797262 source:c:\temp\allen c++ workspace sept 2023\helloworld\main.cpp
+	<iostream>
+
+1694705907 source:c:\temp\allen c++ workspace sept 2023\helloworld\store.cpp
+	<iostream>
+
+1695056864 source:c:\temp\allen c++ workspace sept 2023\helloworld\guessing.cpp
+	<iostream>
+	<time.h>
+
+1695137482 source:c:\temp\allen c++ workspace sept 2023\helloworld\rng.cpp
+	<iostream>
+	<time.h>
+
