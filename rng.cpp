@@ -17,7 +17,9 @@ void guess() {
         hnum = temp;
     }
 
+
     cout << endl << "Here is your number: " << (rand() % (hnum - lnum + 1) + lnum) << endl;
+
 
     string again;
     cout << "Again? (Y/N) ";

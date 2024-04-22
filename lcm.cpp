@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// Euclidean algorithm applied below
 int findGCD(int a, int b) {
     // b > a
     int temp1 = a;
